@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "View model support for StencilJS",
   "main": "lib/index.js",
   "author": "jmanke",
@@ -16,7 +16,7 @@
     "build": "node ./build.js"
   },
   "dependencies": {
-    "@didyoumeantoast/dash-utils": "^1.1.0",
+    "@didyoumeantoast/dash-utils": "^1.1.2",
     "@stencil/core": "^2.19.3",
     "lodash": "^4.17.21"
   },
