@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "View model support for StencilJS",
   "main": "lib/index.js",
   "author": "jmanke",
@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "esbuild": "^0.15.17",
+    "esbuild-plugin-d.ts": "^1.1.0",
     "typescript": "^4.7.4"
   }
 }
